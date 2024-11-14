@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/psira-applications-service-api/src/main/resources/db/V2__initial_inserts.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/psira-applications-service-api/src/main/resources/db/migration/V1__initial_setup.sql" dialect="MySQL" />
+  </component>
+</project>
